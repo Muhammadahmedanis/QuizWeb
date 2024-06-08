@@ -1,0 +1,124 @@
+[
+    [
+        {
+            "question": "What is the largest ocean on earth",
+            "answers": [
+                "Atlantic Ocean",
+                "Indian Ocean",
+                "Pacific Ocean",
+                "Arctic Ocean"
+            ],
+             "correctAnswer": "Pacific Ocean"
+        },
+        {
+            "question":"What is the tallest tree species in world",
+            "answers":["Redwood", "Banyan", "Oak", "Pine"],
+            "correctAnswer": "Redwood"
+        },
+        {
+            "question":"What is the world's most spoken language?",
+            "answers":["English", "Madarin Chinese", "Indian", "Spanish"],
+            "correctAnswer": "Madarin Chinese"
+        }
+    ],
+    [
+        {
+            "question": "What is the largest planet in our solar system",
+            "answers": ["Earth", "Jupiter", "Mars", "Saturn"],
+             "correctAnswer": "Jupiter"
+        },
+        {
+            "question":"Which artist painted \"Starry Night\"?",
+            "answers":[
+            "Vincent van Gogh", 
+            "Pablo Picasso", 
+            "Claude Monet", 
+            "Salvador Dali"
+        ],
+            "correctAnswer": "Vincent van Gogh"
+        },
+        {
+            "question":"What is the main component of air?",
+            "answers":["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+            "correctAnswer": "Nitrogen"
+        }
+    ],
+    [
+        {
+            "question": "Which year World War II end",
+            "answers": ["1942", "1945", "1943", "1947"],
+            "correctAnswer": "1945"
+        },
+        {
+            "question":"What is the capital of France ",
+            "answers":["Paris", "Berlin", "Madrid", "Rome"],
+            "correctAnswer": "Paris"
+        },
+        {
+            "question":"What is the largest mammel on earth?",
+            "answers":["Elephant", "Giraffe", "Blue Whale", "Lion"],
+            "correctAnswer": "Blue Whale"
+        }
+    ],
+    [
+        {
+            "question": "Which planet is closet to earth",
+            "answers": ["Mars", "Venus", "Mercury", "Saturn"],
+            "correctAnswer": "Mercury"
+        },
+        {
+            "question":"What is the currency of Japan",
+            "answers":["Riyal", "Yen", "Euro", "Robel"],
+            "correctAnswer": "Yen"
+        },
+        {
+            "question":"What is the capital of Australia?",
+            "answers":["Sydeny", "Canberra", "Melbourne", "Brisbane"],
+            "correctAnswer": "Canberra"
+        }
+    ],
+    [
+        {
+            "question": "What is the largest desert in world",
+            "answers": [
+                "Sahara Desert",
+                "Arabian Desert",
+                "Gobi Desert",
+                "Antractic Desert"
+            ],
+            "correctAnswer": "Sahara Desert"
+        },
+        {
+            "question":"Which planet also knownm as Red Planet ",
+            "answers":["Venus", "Jupiter", "Neptune", "Mars"],
+            "correctAnswer": "Mars"
+        },
+        {
+            "question":"Which animal is capable of true flight?",
+            "answers":["Bat", "Butterfly", "Punguin", "Kangaroo"],
+            "correctAnswer": "Bat"
+        }
+    ],
+    [
+        {
+            "question": "What is the largest desert in world",
+            "answers": [
+                "Sahara Desert",
+                "Arabian Desert",
+                "Gobi Desert",
+                "Antractic Desert"
+            ],
+            "correctAnswer": "Sahara Desert"
+        },
+        {
+            "question":"Which planet also knownm as Red Planet ",
+            "answers":["Venus", "Jupiter", "Neptune", "Mars"],
+            "correctAnswer": "Mars"
+        },
+        {
+            "question":"Which animal is capable of true flight?",
+            "answers":["Bat", "Butterfly", "Punguin", "Kangaroo"],
+            "correctAnswer": "Bat"
+        }
+    ]
+]
